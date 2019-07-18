@@ -1,0 +1,31 @@
+{
+  "name": "polymer-toptal-demo",
+  "version": "1.0.0",
+  "description": "[Polymer](https://www.polymer-project.org/) was created to promote the use of Web Components, and that is both its strength and weakness.",
+  "main": "demo-element.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chady/polymer-toptal-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chady/polymer-toptal-demo/issues"
+  },
+  "homepage": "https://github.com/chady/polymer-toptal-demo#readme",
+  "dependencies": {
+    "@polymer/iron-ajax": "^3.0.1",
+    "@polymer/iron-icon": "^3.0.0-pre.12",
+    "@polymer/iron-icons": "^3.0.0-pre.12",
+    "@polymer/paper-input": "^3.0.2",
+    "@polymer/polymer": "^3.0.0-pre.12",
+    "@webcomponents/webcomponentsjs": "^1.0.20"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.20"
+  }
+}
